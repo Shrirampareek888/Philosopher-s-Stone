@@ -1,2 +1,2 @@
-# Philosopher-s-Stone
+# Philosopher's-Stone
 A Dynamic Programming based game
